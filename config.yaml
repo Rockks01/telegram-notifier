@@ -1,10 +1,10 @@
 telegram:
     bot1:
-        token: укажите токен
-        owner: укажите владельца (не обязательно)
+        token: 583120681:AAFbhhq2ph5qS7c6I9joz_MqViWEl2TEpx0
+        owner: user
 
 users:
-    k.bashevoy: укажите chat_id (чтобы узнать свой chat_id напишите боту любое сообщение и запустите скрипт python get_chat_id.py)
+    k.bashevoy: chat_id (583120681)
     default: 0
 
 stickers:
